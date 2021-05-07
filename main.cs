@@ -8,3 +8,8 @@ function main{
     console.log("poznamka")
 
 }
+
+function verze2{
+    String poznamka = 'druha poznamka';
+    
+}
