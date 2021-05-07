@@ -18,5 +18,5 @@ function verze2
 
 function verze3
 {
-    String poznamka = "treti verze";
+    String poznamka3 = "treti verze";
 }
