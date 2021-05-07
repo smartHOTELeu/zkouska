@@ -20,3 +20,9 @@ function verze3
 {
     String poznamka3 = "treti verze";
 }
+
+function verze4
+{
+    String poznamkaxxx = '4 poznamka';
+
+}
