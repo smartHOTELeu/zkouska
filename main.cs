@@ -36,3 +36,11 @@ function novybranch
 {
     String poznamka = ' funkce pro novy branch ';
 }
+
+function verze6
+{
+    String poznamka = 'kde se ukaze tohle';
+
+    number cislo = 'tohle je chyba a tady se to musi opravit';
+
+}
