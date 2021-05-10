@@ -26,3 +26,8 @@ function verze4
     String poznamkaxxx = '4 poznamka';
 
 }
+
+function verze5
+{
+    String poznamka5 = 'uz novy github';
+}
