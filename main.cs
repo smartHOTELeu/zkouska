@@ -29,7 +29,7 @@ function verze4
 
 function verze5
 {
-    String poznamka5 = 'uz novy github';
+    String Poznamka5 = 'uz novy github';
 }
 
 function novybranch
