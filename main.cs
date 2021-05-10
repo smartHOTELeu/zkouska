@@ -31,3 +31,8 @@ function verze5
 {
     String poznamka5 = 'uz novy github';
 }
+
+function novybranch
+{
+    String poznamka = ' funkce pro novy branch ';
+}
